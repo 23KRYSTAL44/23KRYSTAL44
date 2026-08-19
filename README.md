@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="23KRYSTAL44-STUDIO — independent software engineering and product development" src="./assets/hero-light.svg" width="1200" height="360">
+  <img alt="23KRYSTAL44-STUDIO — independent software engineering and product development" src="./assets/hero-light.svg" width="100%">
 </picture>
 
 ### Software with structure.
@@ -23,10 +23,10 @@ Current product development is private while release quality, documentation, and
 
 ## Toolbox
 
-**Product** · `Swift` `SwiftUI` `SwiftData`  
-**Quality** · `Swift Testing` `XCTest` `XCUITest` `Accessibility`  
-**Delivery** · `Git` `GitHub Actions` `CI/CD` `Technical documentation`  
-**Exploration** · `Python` `Automation` `LLM workflows`
+- **Product** · `Swift` `SwiftUI` `SwiftData`
+- **Quality** · `Swift Testing` `XCTest` `XCUITest` `Accessibility`
+- **Delivery** · `Git` `GitHub Actions` `CI/CD` `Technical documentation`
+- **Exploration** · `Python` `Automation` `LLM workflows`
 
 ## Studio Principles
 
