@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">23KRYSTAL44-STUDIO</title>
+  <desc id="desc">Independent software engineering and product development.</desc>
+  <rect width="1200" height="360" rx="28" fill="#F6F8FA"/>
+  <path d="M0 300 190 110l129 129L520 38l170 170L868 30l332 332" fill="none" stroke="#D8DEE8" stroke-width="1.5"/>
+  <path d="m811 87 57-57 74 74-74 74-57-57 57-91 74 74-131 17 57 57V30" fill="none" stroke="#0969DA" stroke-width="2" opacity=".9"/>
+  <g transform="translate(72 70)">
+    <rect width="72" height="72" rx="18" fill="#0969DA"/>
+    <path d="M20 24h21c8 0 13 4 13 11 0 5-3 9-9 12L30 55h25" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="72" y="218" fill="#1F2328" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="56" font-weight="700" letter-spacing="-2">23KRYSTAL44</text>
+  <text x="72" y="267" fill="#0969DA" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28" font-weight="600" letter-spacing="6">STUDIO</text>
+  <text x="72" y="313" fill="#57606A" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" letter-spacing=".4">SOFTWARE ENGINEERING  /  PRODUCT SYSTEMS  /  APPLIED AI</text>
+  <circle cx="1128" cy="72" r="5" fill="#0969DA"/>
+  <path d="M1100 72h-92" stroke="#0969DA" stroke-width="1.5"/>
+</svg>

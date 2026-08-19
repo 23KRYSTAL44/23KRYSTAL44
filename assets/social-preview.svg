@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">23KRYSTAL44-STUDIO social preview</title>
+  <desc id="desc">A dark studio wordmark with mineral blue geometric detail.</desc>
+  <rect width="1280" height="640" fill="#0D1117"/>
+  <path d="M0 590 246 98l163 163L667 3l206 205L1075 0l205 205" fill="none" stroke="#21262D" stroke-width="2"/>
+  <path d="m900 134 106-106 106 106-106 106-106-106 106-106 106 106-212 0 106 106V28" fill="none" stroke="#58A6FF" stroke-width="3"/>
+  <rect x="86" y="124" width="92" height="92" rx="23" fill="#1F6FEB"/>
+  <path d="M112 157h27c10 0 17 6 17 15 0 7-4 12-12 16l-20 11h34" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="86" y="357" fill="#F0F6FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="76" font-weight="700" letter-spacing="-3">23KRYSTAL44</text>
+  <text x="86" y="425" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="38" font-weight="600" letter-spacing="9">STUDIO</text>
+  <text x="88" y="508" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="25">Software engineering · Product systems · Applied AI</text>
+</svg>
