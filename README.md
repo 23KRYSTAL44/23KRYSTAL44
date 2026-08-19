@@ -4,34 +4,40 @@
   <img alt="23KRYSTAL44-STUDIO — independent software engineering and product development" src="./assets/hero-light.svg" width="100%">
 </picture>
 
-### Software with structure.
+<p align="right"><a href="./README.en.md">English</a> · <a href="./README.ru.md">Русский</a></p>
 
-`23KRYSTAL44-STUDIO` is an independent software practice focused on precise product engineering: native applications, dependable systems, thoughtful automation, and applied AI workflows.
+## Software with structure.
 
-The work starts with a clear problem and ends with software that is calm to use, easy to reason about, and built to last.
+**Программные продукты с ясной структурой.**
 
-## Focus
+`23KRYSTAL44-STUDIO` is an independent software practice for native products, dependable automation, and applied AI.
 
-- **Native product engineering** — Apple-platform applications shaped around real workflows.
-- **Private-by-design systems** — local-first architecture, deliberate data handling, and explicit security boundaries.
-- **Quality as a feature** — accessibility, testing, documentation, and maintainable delivery pipelines.
-- **Practical automation** — tools and AI-assisted workflows that remove repetition without hiding complexity.
+Независимая разработка нативных продуктов, надёжной автоматизации и решений на основе прикладного ИИ.
 
-## Current Work
+## Focus · Направления
 
-Current product development is private while release quality, documentation, and distribution are being prepared. Public projects will appear here when they are ready to be useful—not simply when they are ready to be shown.
+- **Native products · Нативные продукты** — Apple-platform applications shaped around real workflows.
+- **Local-first systems · Локальные системы** — deliberate data handling and explicit privacy boundaries.
+- **Product quality · Качество продукта** — accessibility, testing, documentation, and maintainable delivery.
+- **Automation & AI · Автоматизация и ИИ** — practical tools that remove repetition without hiding complexity.
 
-## Toolbox
+## Current Work · Сейчас
 
-- **Product** · `Swift` `SwiftUI` `SwiftData`
-- **Quality** · `Swift Testing` `XCTest` `XCUITest` `Accessibility`
-- **Delivery** · `Git` `GitHub Actions` `CI/CD` `Technical documentation`
-- **Exploration** · `Python` `Automation` `LLM workflows`
+Current product work remains private while release quality and public documentation are being prepared.
 
-## Studio Principles
+Текущие продукты остаются в закрытой разработке до готовности к релизу и публикации документации.
+
+## Toolbox · Технологии
+
+- **Native development · Нативная разработка** — `Swift` `SwiftUI` `SwiftData`
+- **Quality · Качество** — `Swift Testing` `XCTest` `XCUITest` `Accessibility`
+- **Delivery · Инженерные процессы** — `Git` `GitHub Actions` `CI/CD` `Documentation`
+- **Automation & AI · Автоматизация и ИИ** — `Python` `Automation` `LLM workflows`
+
+## Principles · Принципы
 
 `Clarity over ornament.` &nbsp; `Privacy over extraction.` &nbsp; `Evidence over claims.` &nbsp; `Finish over volume.`
 
 ---
 
-<sub><strong>23KRYSTAL44-STUDIO</strong> · Independent software engineering</sub>
+<sub><strong>23KRYSTAL44-STUDIO</strong> · Independent software engineering · Независимая разработка</sub>
